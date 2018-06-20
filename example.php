@@ -41,7 +41,7 @@ $shopInfo = $sdk->getInfo();
 	</div>
 	<br>
 	<div class="desc">
-		<h2 align="center">Описание товаров</h1>
+		<h2 align="center">ОПИСАНИЕ АХАХА</h1>
 		<?php foreach($sdk->getProducts() as $product): ?>
 			<h4><?=$product['name']?></h4>
 			<p><?=$product['description']?></p>
