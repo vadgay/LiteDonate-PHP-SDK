@@ -26,7 +26,7 @@ $shopInfo = $sdk->getInfo();
 	</h1>
 	<div class="products">
 		<form action="" method="post" align="center">
-			<input type="text" name="nickname" placeholder="Никнейм" required> <br>
+			<input type="text" name="nickname" placeholder="Куку" required> <br>
 			<input type="text" name="coupon" placeholder="Купон, если есть"> <br>
 			<select name="productId" required>
 				<option value="0" disabled selected>Выберите товар</option>
